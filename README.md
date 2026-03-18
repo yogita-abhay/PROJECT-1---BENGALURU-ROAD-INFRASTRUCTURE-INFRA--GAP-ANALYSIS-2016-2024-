@@ -38,4 +38,18 @@ d. Calendar table
 4) The "Many-to-Many" Conflict: Initially, Excel refused to connect your tables because "Indiranagar" appeared multiple times in both. Connected these tables with Bridge tables.
 5) Data Typos: During the splitting process, you encountered fragments and typos (like "Joncition") that required the Replace Values and Trim functions to ensure they would match the traffic dataset names.
 
+### **Key KPI Metrics**
+1. Total Ward Coverage: 4 Key Hubs (Koramangala, Jayanagar, Yeshwanthpur, and Whitefield).
+2. Average Congestion Level: 78.17% (The primary baseline for traffic saturation across focus wards).
+3. Average Speed: 39.75 km/hr (Used to correlate infrastructure quality with mobility efficiency).
+4. Durability Index: 0.07K (A custom-modeled metric representing the structural health and longevity of the road network).
+5. Investment vs. Impact ROI: Identified Yeshwanthpur as the high-ROI zone with 26.91% Speed Contribution despite only 2.97% City Investment. 
+6. Repair Lifecycle Peak: Identified 2016 as the peak maintenance year with 481 Km of road repaired, followed by a sharp decline.
+7.Travel Time Index (TTI) by Area: Comparative analysis showing Yeshwanthpur (1.36) vs. Whitefield (1.26) to measure delay severity. 
+8. Avg. Public Transport Usage: 45.11%
+9. Avg. Parking Usage: 75.01%
+10. Pedestrian/Cyclist Count: 129 (Highlights the multi-modal nature of road usage).
+11. Incident Frequency: Longitudinal tracking of incidents per location (e.g., Koramangala peaking at 9 reports in 2023).
+
+
 
