@@ -30,3 +30,12 @@ c. BBMP Ward Area & Road Length
 
 d. Calendar table
 
+### **Challenges faced**
+
+1) Data Fragmentation & Silos: Consolidating eight years of disparate data from multiple sources (Government repair logs, historical investment records, and modern traffic APIs) into a single, unified Star Schema.
+2) The "Messy String" Problem: The “BBMP road repair 2017” data wasn't in a standard format; it was written as natural language (e.g., "from KH Road to Vivekananda Nagara"). Used Power Query to separate messy strings to get cleaned data.
+3) Quantifying "Soft" Metrics: Developing the Durability Index from scratch—translating qualitative road conditions and repair cycles into a quantifiable numerical scale for statistical modeling.
+4) The "Many-to-Many" Conflict: Initially, Excel refused to connect your tables because "Indiranagar" appeared multiple times in both. Connected these tables with Bridge tables.
+5) Data Typos: During the splitting process, you encountered fragments and typos (like "Joncition") that required the Replace Values and Trim functions to ensure they would match the traffic dataset names.
+
+
