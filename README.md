@@ -72,12 +72,12 @@ d. Calendar table
 
 1.Implement ROI-Based Budgeting: Move away from the current high-investment model in saturated zones like Jayanagar (77.8% investment). Instead, reallocate funds toward high-impact, low-cost "quick wins" identified in Yeshwanthpur, where small investments yielded a 26.91% speed contribution.
 
-2. Transition to Predictive Maintenance: The sharp rise in incidents following the 2016 repair peak indicates a reactive cycle. Use the Durability Index to trigger road maintenance before the index drops below a critical threshold, preventing the 78.17% congestion spikes caused by surface failures.
+2. Transition to Predictive Maintenance: The sharp rise in incidents following the 2016 repair peak indicates a reactive cycle. Use the Durability Index to trigger road maintenance before the index drops below a critical threshold, preventing the 78.17% congestion spikes caused by surface failures.
 
-3. Targeted Bottleneck Interventions: Focus engineering resources on Koramangala and Whitefield, which show the highest Travel Time Index (TTI). Since these areas have lower speed contributions relative to investment, physical interventions like "Tactical Urbanism" or signal synchronization are needed over simple repaving.
+3. Targeted Bottleneck Interventions: Focus engineering resources on Koramangala and Whitefield, which show the highest Travel Time Index (TTI). Since these areas have lower speed contributions relative to investment, physical interventions like "Tactical Urbanism" or signal synchronization are needed over simple repaving.
 
-4. Multi-Modal Integration: With Pedestrian/Cyclist counts at only 129, there is a massive opportunity to reduce the 75.01% Parking Usage and road congestion by investing in non-motorized transport (NMT) lanes, particularly in high-density wards.
+4. Multi-Modal Integration: With Pedestrian/Cyclist counts at only 129, there is a massive opportunity to reduce the 75.01% Parking Usage and road congestion by investing in non-motorized transport (NMT) lanes, particularly in high-density wards.
 
-5. Digital Twin & Real-Time Monitoring: Upgrade the current historical analysis into a "Live Infra-Gap Tracker." By integrating real-time traffic APIs with the existing Star Schema SQL database, planners can receive automated alerts when TTI exceeds 1.5 in any ward.
+5. Digital Twin & Real-Time Monitoring: Upgrade the current historical analysis into a "Live Infra-Gap Tracker." By integrating real-time traffic APIs with the existing Star Schema SQL database, planners can receive automated alerts when TTI exceeds 1.5 in any ward.
 
 
