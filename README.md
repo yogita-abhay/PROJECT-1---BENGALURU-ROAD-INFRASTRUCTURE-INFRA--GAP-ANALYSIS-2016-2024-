@@ -57,5 +57,12 @@ d. Calendar table
 ### **POWER BI DASHBOARD**
 <img width="1485" height="824" alt="image" src="https://github.com/user-attachments/assets/acb63904-1e7e-4e48-b457-42338edd57b2" />
 
+### **TAKEAWAYS**
+Investment-Efficiency Mismatch: The data reveals a significant "Investment Gap." While Jayanagar received 77.8% of the city’s infrastructure investment, it only contributed 24.65% to speed improvements, whereas Yeshwanthpur showed much higher ROI with minimal funding.
+Critical Congestion Threshold: Across the four focus wards, the average congestion level sits at a critical 78.17%, indicating that current road capacity is nearly saturated despite the 481 Km of repairs completed during the 2016 peak.
+The "Maintenance-Delay" Correlation: Spatial analysis proves that areas with the oldest repair cycles (pre-2015) currently exhibit the highest Travel Time Index (TTI), particularly in Koramangala, proving that infrastructure "health" is a direct predictor of traffic flow.
+Diminishing Returns on Repairs: The sharp decline in road repaired length from 481 Km (2016) to 189 Km (2017) correlates with the rising incident reports in subsequent years, highlighting the need for a preventative rather than reactive maintenance model.
+Predictive Value of the Durability Index: By utilizing the custom 0.07K Durability Index, urban planners can now predict which wards will hit "gridlock status" (TTI > 1.5) before the structural failure actually occurs.
+
 
 
