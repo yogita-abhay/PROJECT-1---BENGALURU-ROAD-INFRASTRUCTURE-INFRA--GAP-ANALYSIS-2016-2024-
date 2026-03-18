@@ -17,7 +17,9 @@ Project Overview: Bengaluru road infrastructure analysis involves the systematic
 <img width="1369" height="675" alt="image" src="https://github.com/user-attachments/assets/fdca108a-0fa3-4269-b874-619971672584" />
 
 SCHEMA: STAR SCHEMA
+
 -FACT TABLE: a. BANGLORE_TRAFFIC_DATASET
+
 -DIMENSION TABLE:
 a. BBMP 2014 Ward Delimitation Details
 b. BBMP Road repair data 2017
