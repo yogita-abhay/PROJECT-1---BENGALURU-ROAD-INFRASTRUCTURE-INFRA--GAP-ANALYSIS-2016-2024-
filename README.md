@@ -21,8 +21,12 @@ SCHEMA: STAR SCHEMA
 -FACT TABLE: a. BANGLORE_TRAFFIC_DATASET
 
 -DIMENSION TABLE:
+
 a. BBMP 2014 Ward Delimitation Details
+
 b. BBMP Road repair data 2017
+
 c. BBMP Ward Area & Road Length
+
 d. Calendar table
 
