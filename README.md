@@ -51,5 +51,11 @@ d. Calendar table
 10. Pedestrian/Cyclist Count: 129 (Highlights the multi-modal nature of road usage).
 11. Incident Frequency: Longitudinal tracking of incidents per location (e.g., Koramangala peaking at 9 reports in 2023).
 
+### **EXCEL DASHBOARD**
+<img width="1954" height="951" alt="image" src="https://github.com/user-attachments/assets/c96ee421-e02c-4b0e-b41c-bfc4b3b76e79" />
+
+### **POWER BI DASHBOARD**
+<img width="1485" height="824" alt="image" src="https://github.com/user-attachments/assets/acb63904-1e7e-4e48-b457-42338edd57b2" />
+
 
 
